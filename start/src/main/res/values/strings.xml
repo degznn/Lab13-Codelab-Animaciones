@@ -15,30 +15,32 @@
   ~ limitations under the License.
 -->
 <resources>
-    <string name="app_name">AnimationCodelab</string>
-    <string name="home">Home</string>
-    <string name="work">Work</string>
-    <string name="weather">Weather</string>
+    <string name="app_name">Laboratorio de Animaciones</string>
+    <string name="home">Inicio</string>
+    <string name="work">Trabajo</string>
+    <string name="weather">Clima</string>
     <string name="temperature">18 ℃</string>
-    <string name="tasks">Tasks</string>
-    <string name="add_tasks">ADD TASKS</string>
+    <string name="tasks">Tareas</string>
+    <string name="add_tasks">AGREGAR TAREAS</string>
     <string-array name="tasks">
-        <item>Buy milk</item>
-        <item>Choose curtain</item>
-        <item>Plant rosemary</item>
-        <item>Finish the essay</item>
-        <item>Receive new packages</item>
-        <item>Take a photo</item>
+        <item>Comprar leche</item>
+        <item>Elegir cortinas</item>
+        <item>Plantar romero</item>
+        <item>Terminar el ensayo</item>
+        <item>Recibir paquetes</item>
+        <item>Tomar una fotografía</item>
     </string-array>
-    <string name="topics">Topics</string>
+    <string name="topics">Temas</string>
     <string-array name="topics">
-        <item>2 new packages arrived</item>
-        <item>DIY project recommendation</item>
-        <item>Festival next month</item>
-        <item>New flower seeds available</item>
+        <item>Llegaron 2 paquetes nuevos</item>
+        <item>Recomendación de proyecto manual</item>
+        <item>Festival el próximo mes</item>
+        <item>Hay nuevas semillas de flores</item>
     </string-array>
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
-    <string name="edit">EDIT</string>
-    <string name="edit_message">Edit feature is not supported</string>
-    <string name="refresh">Refresh</string>
+    <string name="edit">EDITAR</string>
+    <string name="edit_message">La función de edición no está disponible</string>
+    <string name="refresh">Actualizar clima</string>
+    <string name="topic_icon">Información del tema</string>
+    <string name="task_icon">Tarea completada</string>
 </resources>
